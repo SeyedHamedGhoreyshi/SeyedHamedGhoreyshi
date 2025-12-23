@@ -40,12 +40,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeyedHamedGhoreyshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyedHamedGhoreyshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeyedHamedGhoreyshi&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
